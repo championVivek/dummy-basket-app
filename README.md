@@ -1,1 +1,1 @@
-# bsktpay-app
+# dummy-basket-app
