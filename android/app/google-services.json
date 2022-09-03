@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47558526220",
+    "project_id": "bsktpay",
+    "storage_bucket": "bsktpay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47558526220:android:10b8d86c729a2c58633529",
+        "android_client_info": {
+          "package_name": "com.bskt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47558526220-ub2mth3n0i906v35fu8e9f5g4te2skpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkHG96CR_Jbu4UqyNCnU7BEX5Oss94iQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47558526220-ub2mth3n0i906v35fu8e9f5g4te2skpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

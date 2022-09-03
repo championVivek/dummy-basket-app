@@ -1,0 +1,16 @@
+export const routename = {
+    "LoginScreen": "LoginScreen",
+    "SignupScreen": "SignupScreen",
+    "ForgotPasswordScreen": "ForgotPasswordScreen",
+    "ProgressScreens": "ProgressScreens",
+    "OtpScreen": "OtpScreen",
+    "IdScanScreen": "IdScanScreen",
+    "GetStartedScreen": "GetStartedScreen",
+    "QrScannerScreen": "QrScannerScreen",
+    "ScanSuccessScreen": "ScanSuccessScreen",
+    "PaymentMethodScreen": "PaymentMethodScreen",
+    "AddCardScreen": "AddCardScreen",
+    "DrawSignatureScreen": "DrawSignatureScreen",
+    "CheckoutScreen": "CheckoutScreen",
+    "BankDetailsScreen": "BankDetailsScreen",
+}

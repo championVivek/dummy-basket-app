@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="167" height="167" viewBox="0 0 167 167">
+  <g id="Group_21" data-name="Group 21" transform="translate(-79.869 -139.869)">
+    <circle id="Ellipse_41" data-name="Ellipse 41" cx="64.5" cy="64.5" r="64.5" transform="translate(98.869 158.869)" fill="#fff" opacity="0.05"/>
+    <circle id="Ellipse_42" data-name="Ellipse 42" cx="83.5" cy="83.5" r="83.5" transform="translate(79.869 139.869)" fill="#fff" opacity="0.03"/>
+    <path id="Icon_awesome-check-circle" data-name="Icon awesome-check-circle" d="M94.307,47.435A46.872,46.872,0,1,1,47.435.563,46.872,46.872,0,0,1,94.307,47.435ZM42.013,72.253,76.789,37.477a3.024,3.024,0,0,0,0-4.277l-4.277-4.277a3.024,3.024,0,0,0-4.277,0L39.875,57.285,26.634,44.044a3.024,3.024,0,0,0-4.277,0L18.08,48.321a3.024,3.024,0,0,0,0,4.277L37.736,72.253a3.024,3.024,0,0,0,4.277,0Z" transform="translate(115.934 175.43)" fill="#f3f4f6" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+  </g>
+</svg>
